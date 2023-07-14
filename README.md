@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <img src="https://github.com/altynsai/altynsai/blob/da86a620539e2f0c2d2066a9a389b6028c0efe86/Altynsai%20Sanalova.png" alt="banner">
 <!--
 **altynsai/altynsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
